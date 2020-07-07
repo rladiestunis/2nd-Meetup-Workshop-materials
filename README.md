@@ -14,7 +14,7 @@ Speakers :
 Moderator :
 🟪  Nermine Ben Rich : Data Scientist
 
-After reviewing the workshop materials, that would really be wonderful if you evaluate what you have already learned during the workshop. Enjoy this [quiz](https://tinyurl.com/y9x69lwj) : 
+After reviewing the workshop materials, that would really be wonderful if you evaluate what you have already learned during the workshop. Enjoy this [quiz](https://tinyurl.com/y9x69lwj) 
 
 Stay tuned to our upcoming events!
 
