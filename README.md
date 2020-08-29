@@ -7,11 +7,15 @@ Please find [the presentation](https://tinyurl.com/yccetxvu) as well.
 We were in touch with in-depth details regarding how to deal with data structures (#Vectors, #Arrays, #Lists, #Matrices & #DataFrames).
 
 Speakers :
+
 🟪 Haifa Ben Messaoud : Data Scientist
+
 🟪  Hédia Tnani : Bioinformatician
+
 🟪  Mouna Belaid : Data Scientist
 
 Moderator :
+
 🟪  Nermine Ben Rich : Data Scientist
 
 After reviewing the workshop materials, that would really be wonderful if you evaluate what you have already learned during the workshop. Enjoy this [quiz](https://tinyurl.com/y9x69lwj) 
