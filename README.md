@@ -21,10 +21,17 @@ Stay tuned to our upcoming events!
 If you have any questions, please reach out to us ⬇️
 
 ◾️ Email : tunis@rladies.org
+
 ◾️ LinkedIn : https://tinyurl.com/y8hlt5np
+
 ◾️ Meetup : https://www.meetup.com/rladies-tunis/
+
 ◾️ Twitter : https://twitter.com/RladiesTunis
+
 ◾️ Instagram : https://www.instagram.com/rladiestunis/
+
 ◾️ Youtube_Channel : https://tinyurl.com/ycm48c6w
+
 ◾️ Github : https://github.com/rladiestunis
+
 ◾️ Messenger : m.me/RLadiesTunis
